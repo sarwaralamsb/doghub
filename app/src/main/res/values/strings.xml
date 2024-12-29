@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">doghub</string>
+    <string name="dog_image">Image of a dog</string>
+</resources>
